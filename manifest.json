@@ -1,0 +1,27 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/res/res.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/tween/tween.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/qr/QR8bitByte.js",
+		"bin-debug/qr/QRBitBuffer.js",
+		"bin-debug/qr/QRCode.js",
+		"bin-debug/qr/QRCodeModel.js",
+		"bin-debug/qr/QRErrorCorrectLevel.js",
+		"bin-debug/qr/QRMaskPattern.js",
+		"bin-debug/qr/QRMath.js",
+		"bin-debug/qr/QRMode.js",
+		"bin-debug/qr/QRPolynomial.js",
+		"bin-debug/qr/QRRSBlock.js",
+		"bin-debug/qr/QRUtil.js"
+	]
+}
